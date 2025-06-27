@@ -129,3 +129,12 @@ footer {
   background: #eeeeee;
   color: #555;
 }
+
+ul a:hover {
+  color: #007bff;
+}
+
+.btn:hover {
+  background: #0056b3;
+  color: #fff;
+}
