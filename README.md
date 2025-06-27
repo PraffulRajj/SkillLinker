@@ -43,8 +43,8 @@ Millions of skilled workers (like tutors, plumbers, designers, tailors) struggle
 | Auth        | JWT, Bcrypt                   |
 | Deployment  | Vercel (Frontend), Render (Backend), MongoDB Atlas |
 
-🤝 Contributing
-Contributions are welcome!
+<H1>🤝 Contributing</H1>
+<H2>Contributions are welcome!</H2>
 
   1) Fork the repo
 
@@ -54,7 +54,7 @@ Contributions are welcome!
 
   4) Push and submit a Pull Request
 
-📌 Future Enhancements:- 
+<H1>📌 Future Enhancements:- </H1>
 
    🧠 AI-based skill classification using TensorFlow.js
 
