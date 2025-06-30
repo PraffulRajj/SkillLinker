@@ -7,7 +7,7 @@
 <h1>🚀 Demo</h1>
 
 🧪 Try it live (if deployed):  
-[👉 SkillLinker Live Demo](https://your-deployment-link.com)
+[👉 SkillLinker Live Demo](http://127.0.0.1:5501/index.html)
 
 🧠 Problem Statement
 
