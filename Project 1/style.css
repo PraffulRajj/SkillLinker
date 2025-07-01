@@ -1,3 +1,7 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 
 body {
   font-family: 'Poppins', sans-serif;
@@ -41,20 +45,26 @@ nav a {
 
 nav .btn {
   padding: 8px 16px;
-  background: #007bff;
+  background: #01162dcf;
   color: #fff;
   border-radius: 4px;
 }
 
-
 .hero {
+  background-color: #04192f;;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: space-around;
   padding: 80px 0;
 }
 
+.container-1{
+  justify-content: space-around;
+}
+
+
 .hero-content {
+  color: #ffffff;
   max-width: 600px;
 }
 
